@@ -16,9 +16,6 @@ thunar-volman
 file-roller
 tumbler
 xfce4-terminal
-lightdm
-lightdm-gtk-greeter
-lightdm-gtk-greeter-settings
 acpi
 sysstat
 bluez-utils
